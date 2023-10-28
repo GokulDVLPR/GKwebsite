@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/GKwebsite/static/css/main.db456ae6.css",
+    "main.js": "/GKwebsite/static/js/main.f9d5e94a.js",
+    "static/media/HeroImage.jpg.jpg": "/GKwebsite/static/media/HeroImage.jpg.459c476749e051ff9bf0.jpg",
+    "static/media/download.jpeg": "/GKwebsite/static/media/download.7e4f0e6ae8a1df2fecfb.jpeg",
+    "static/media/GokulResume.pdf": "/GKwebsite/static/media/GokulResume.d53b16017f6ab789b2e3.pdf",
+    "static/media/assets.jpg": "/GKwebsite/static/media/assets.3bc7bcc3b4ece0b1ab1b.jpg",
+    "static/media/logoG.png": "/GKwebsite/static/media/logoG.242506f0ed464f90068e.png",
+    "static/media/skills.jpg.jpg": "/GKwebsite/static/media/skills.jpg.b6c5ac3ce531c71b4cb1.jpg",
+    "index.html": "/GKwebsite/index.html",
+    "main.db456ae6.css.map": "/GKwebsite/static/css/main.db456ae6.css.map",
+    "main.f9d5e94a.js.map": "/GKwebsite/static/js/main.f9d5e94a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db456ae6.css",
+    "static/js/main.f9d5e94a.js"
+  ]
+}
